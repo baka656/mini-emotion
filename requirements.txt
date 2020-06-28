@@ -1,0 +1,13 @@
+tensorflow==1.14
+gunicorn
+numpy
+pandas
+altair
+requests
+flask
+opencv-python
+scipy
+imutils
+dlib
+
+
